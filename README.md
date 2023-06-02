@@ -1,5 +1,6 @@
 # Runway-High-Resolution-Satellite-Imagery-Dataset
 Google maps Airport High-Resolution Satellite Imagery
+
 We have undertaken an extensive effort to collect a comprehensive dataset of high-resolution satellite images capturing various airport landscapes. The dataset encompasses a wide range of image sizes, ranging from 1500 by 1500 pixels to 6000 by 6000 pixels, ensuring the inclusion of both detailed and expansive airport views. Within this dataset, we have meticulously labeled a total of 4204 runway instances, employing a rigorous and meticulous labeling process.
 
 Our dataset comprises satellite images sourced from the Federal Aviation Administration (FAA), covering diverse geographical locations throughout the United States. This deliberate selection ensures a broad representation of airport settings, accommodating different airport sizes, runway shapes, and surrounding environments. By incorporating such diversity, our dataset offers a comprehensive and representative sample for training and testing object detection models specifically designed for airport runway detection using satellite imagery.
